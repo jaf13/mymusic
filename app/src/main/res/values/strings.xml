@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="title_activity_splash">My Music</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="txtSplash">Jenna\'s Music</string>
+    <string name="sugar">Fall Out Boy Image</string>
+    <string name="alessia">Alessia Cara Image</string>
+    <string name="fortminor">For Minor Image</string>
+    <string name="btnAlessia">Alessia Cara \"Here\"</string>
+    <string name="btnSugar">Fall Out Boy \"Sugar, We\'re Going Down\"</string>
+    <string name="btnFortMinor">Fort Minor \"Where\'d You Go?\"</string>
+</resources>
